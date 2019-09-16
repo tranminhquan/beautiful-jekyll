@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Quan Tran - Computer Vision note
+title: Quan Tran, Computer Vision note
 
 # Short description of your site
 description: A notebook of Computer Vision
@@ -73,7 +73,7 @@ social-network-links:
   github: tranminhquan
 #   twitter: daattali
 #  reddit: yourname
- linkedin: tranminhquan1201
+#  linkedin: tranminhquan1201
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -89,7 +89,7 @@ social-network-links:
 share-links-active:
 #   twitter: true
   facebook: true
-  linkedin: true
+#   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
