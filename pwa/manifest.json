@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "Quan M. Tran Blog",
+  "short_name": "Quan Tran Blog",
+  "description": "",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
