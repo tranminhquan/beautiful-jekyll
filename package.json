@@ -1,14 +1,14 @@
 {
     "name": "hux-blog",
-    "title": "Quan Blog",
-    "author": "Quan M. Tran <quantran.cv@gmail.com>",
+    "title": "Hux Blog",
+    "author": "Hux <huxpro@gmail.com>",
     "version": "1.8.2",
-    "homepage": "http://tranminhquan.github.io",
+    "homepage": "http://huxpro.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/tranminhquan/tranminhquan.github.io"
+        "url": "https://github.com/Huxpro/huxpro.github.io"
     },
-    "bugs": "https://github.com/tranminhquan/tranminhquan.github.io/issues",
+    "bugs": "https://github.com/Huxpro/huxpro.github.io/issues",
     "devDependencies": {
         "grunt": "^1.1.0",
         "grunt-banner": "~0.2.3",
