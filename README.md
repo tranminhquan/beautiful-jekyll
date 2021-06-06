@@ -1,9 +1,9 @@
-[Hux Blog](https://tranminhquan.me)
+[Hux Blog](https://tranminhquan.github.io)
 ================================
 
 > I never expected this becomes popular.
 
-![](http://tranminhquan.me/img/blog-desktop.jpg)
+![](http://tranminhquan.github.io/img/blog-desktop.jpg)
 
 
 [User Manual 👉](_doc/Manual.md)
